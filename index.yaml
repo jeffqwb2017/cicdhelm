@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cicdhelm1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-08T16:41:12.553538736-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 43708ed98b0f0e937341e628d624273431ae07d1593b059ce63c696411133a94
+    name: cicdhelm1
+    urls:
+    - cicdhelm1-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-08T16:41:12.552738872-07:00"
